@@ -45,7 +45,8 @@ ________________________________________________________________________________
   <h1>LENGUAJES</h1>
    
   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/QNyBTrd2/Python-img.gif' border='0' alt='Python-img'/></a>
- <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sDsL7bHJ/Imagen-animada-Java-04.gif' border='0' alt='Imagen-animada-Java-04'/></a>  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZKxcmRc8/js-animation.gif' border='0' alt='js-animation'/></a>
+   [![Imagen-animada-Java-04.gif](https://i.postimg.cc/sDsL7bHJ/Imagen-animada-Java-04.gif)](https://postimg.cc/s1HKRHrB)
+ <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZKxcmRc8/js-animation.gif' border='0' alt='js-animation'/></a>
   
 </div>                                                 
                                                            
