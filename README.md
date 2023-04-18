@@ -17,28 +17,30 @@ Repositorio 2023 Materia Laboratorio |||
 
 ___________________________________________________________________________________________________________________________________________________
 
-                         INTEGRANTES:
+                                                       INTEGRANTES:
        
- MAYRA MANZANEDA   
+                                                        MAYRA MANZANEDA   
  
- MAIRA GINENEZ  
+                                                       MAIRA GINENEZ  
  
- ANA CASTELLO   
+                                                       ANA CASTELLO   
  
- LUCIANA BAIGORRIA 
+                                                       LUCIANA BAIGORRIA 
  
- EZEQUIEL GARCIA 
+                                                       EZEQUIEL GARCIA 
  
- JORJE DE LA PLATA
+                                                      JORJE DE LA PLATA
  
- SANTIAGO MAÑAS   
+                                                      SANTIAGO MAÑAS   
  
-LUCIANO QUINTEROS  
+                                                     LUCIANO QUINTEROS  
 
 
 ______________________________________________________________________________________________________________________________________________________________________
 
                                                            LENGUAJE
+                                                           
+  <a href='https://postimg.cc/BXtDcJRb' target='_blank'><img src='https://i.postimg.cc/BXtDcJRb/js-animation.gif' border='0' alt='js-animation'/></a>
                                                            
                                                            
                                                                                                                                                                                                   
