@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
                                                        INTEGRANTES:
        
-                                                        MAYRA MANZANEDA   
+                                                       MAYRA MANZANEDA   
  
                                                        MAIRA GINENEZ  
  
@@ -29,9 +29,9 @@ ________________________________________________________________________________
  
                                                        EZEQUIEL GARCIA 
  
-                                                      JORJE DE LA PLATA
+                                                       JORJE DE LA PLATA
  
-                                                      SANTIAGO MAÑAS   
+                                                       SANTIAGO MAÑAS   
  
                                                      LUCIANO QUINTEROS  
 
