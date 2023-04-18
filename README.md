@@ -33,5 +33,11 @@ INTEGRANTES:
  
  SANTIAGO MAÑAS   
  
+ 
+ 
+ 
+ <a href='https://postimg.cc/BXtDcJRb' target='_blank'><img src='https://i.postimg.cc/BXtDcJRb/js-animation.gif' border='0' alt='js-animation'/></a>
+ 
+ 
  LUCIANO QUINTEROS  
 
