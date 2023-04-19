@@ -19,21 +19,21 @@ ________________________________________________________________________________
 
                                                        INTEGRANTES:
        
-                                                       MAYRA MANZANEDA   
+                                                      MAYRA MANZANEDA   
  
-                                                       MAIRA GINENEZ  
+                                                      MAIRA GIMENEZ  
  
-                                                       ANA CASTELLO   
+                                                      ANA CASTELLO   
  
-                                                       LUCIANA BAIGORRIA 
+                                                      LUCIANA BAIGORRIA 
  
-                                                       EZEQUIEL GARCIA 
+                                                      EZEQUIEL GARCIA 
  
-                                                       JORJE DE LA PLATA
+                                                      JORJE DE LA PLATA
  
-                                                       SANTIAGO MAÑAS   
+                                                      SANTIAGO MAÑAS   
  
-                                                     LUCIANO QUINTEROS  
+                                                      LUCIANO QUINTEROS  
 
 
 ______________________________________________________________________________________________________________________________________________________________________
