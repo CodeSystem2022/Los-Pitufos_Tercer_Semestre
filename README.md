@@ -46,7 +46,7 @@ ________________________________________________________________________________
    
    [![Imagen-animada-Java-04.gif](https://i.postimg.cc/sDsL7bHJ/Imagen-animada-Java-04.gif)](https://postimg.cc/s1HKRHrB)
  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZKxcmRc8/js-animation.gif' border='0' alt='js-animation'/></a>
-  
+  <a href='https://postimg.cc/z3TDs6W7' target='_blank'><img src='https://i.postimg.cc/z3TDs6W7/Python-img.gif' border='0' alt='Python-img'/></a>
 </div>                                                 
                                                            
                                                            
