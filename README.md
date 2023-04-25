@@ -19,9 +19,9 @@ ________________________________________________________________________________
 
                                                        INTEGRANTES:
        
-                                                      MAYRA MANZANEDA   
+                         Srum Semana 1                 MAYRA MANZANEDA   
  
-                                                      MAIRA GIMENEZ  
+                         Scrum semana 2               MAIRA GIMENEZ  
  
                                                       ANA CASTELLO   
  
