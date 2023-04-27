@@ -17,23 +17,17 @@ Repositorio 2023 Materia Laboratorio |||
 
 ___________________________________________________________________________________________________________________________________________________
 
-                                                       INTEGRANTES:
-                                 ABRIL
-                         Srum Semana1  17 AL 22       MAYRA MANZANEDA   
- 
-                         Scrum semana2 24 AL 29       MAIRA GIMENEZ  
- 
-                                                     ANA CASTELLO   
- 
-                                                      LUCIANA BAIGORRIA 
- 
-                                                      EZEQUIEL GARCIA 
- 
-                                                      JORGE DE LA PLATA
- 
-                                                      SANTIAGO MAÑAS   
- 
-                                                      LUCIANO QUINTEROS  
+                             
+ <H2> | **Semana** | **Scrum Master** | <H2>
+| ---- | ---- |
+| Semana 1 | ** |
+| Semana 2 | ** |
+| Semana 3 | ** |
+| Semana 4 | ** |
+| Semana 5 | ** |
+| Semana 6 | ** |
+| Semana 7 | ** |
+| Semana 8 | ** |         
 
 
 ______________________________________________________________________________________________________________________________________________________________________
