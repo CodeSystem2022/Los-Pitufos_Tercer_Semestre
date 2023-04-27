@@ -29,7 +29,7 @@ ________________________________________________________________________________
  
                                                       EZEQUIEL GARCIA 
  
-                                                      JORJE DE LA PLATA
+                                                      JORGE DE LA PLATA
  
                                                       SANTIAGO MAÑAS   
  
