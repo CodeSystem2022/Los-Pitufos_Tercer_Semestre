@@ -16,12 +16,15 @@ Repositorio 2023 Materia Laboratorio |||
 
 
 ___________________________________________________________________________________________________________________________________________________
+
+
 <H1>Semana |  Scrum Master | Fecha <H1>
 
 <H2>
+   
 | Semana 1 | Mayra Manzaneda 17--22 |
    
-| Semana 2 | Maira Gimenez  24--29|
+| Semana 2 | Maira Gimenez   24--29 |
    
 | Semana 3 | ---- |
    
