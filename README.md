@@ -22,10 +22,10 @@ ________________________________________________________________________________
 
 <H2>
    
-Semana 1 | Mayra Manzaneda 17--22 |
+Semana 1 | Mayra Manzaneda ***17--22 |
    
    
-Semana 2 | Maira Gimenez      24--29 |
+Semana 2 | Maira Gimenez  ***24--29 |
    
 Semana 3 | ---- |
    
