@@ -18,12 +18,12 @@ Repositorio 2023 Materia Laboratorio |||
 ___________________________________________________________________________________________________________________________________________________
 
                                                        INTEGRANTES:
-       
-                         Srum Semana 1                 MAYRA MANZANEDA   
+                                 ABRIL
+                         Srum Semana1  17 AL 22       MAYRA MANZANEDA   
  
-                         Scrum semana 2               MAIRA GIMENEZ  
+                         Scrum semana2 24 AL 29       MAIRA GIMENEZ  
  
-                                                      ANA CASTELLO   
+                                                     ANA CASTELLO   
  
                                                       LUCIANA BAIGORRIA 
  
