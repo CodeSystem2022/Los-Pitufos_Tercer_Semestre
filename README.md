@@ -29,7 +29,7 @@ Semana 2 | Maira Gimenez  ****24--29 |
    
 Semana 3 | ---- |
    
-Semana 4 | ---- |
+Semana 4 | Jorde de la Plata  ****8 --13 |
    
 Semana 5 | -----|
    
