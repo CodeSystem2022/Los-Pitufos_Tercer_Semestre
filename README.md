@@ -22,22 +22,21 @@ ________________________________________________________________________________
 
 <H2>
    
-Semana 1 | Mayra Manzaneda  ***17--22 |
+Semana 1 |   Mayra Manzaneda  ***17--22  |
    
+Semana 2 |   Maira Gimenez  ****24--29   |
    
-Semana 2 | Maira Gimenez  ****24--29 |
+Semana 3 | Jorde de la Plata  ****8 --13 |
    
-Semana 3 | ---- |
-   
-Semana 4 | Jorde de la Plata  ****8 --13 |
+Semana 4 | ---- |
    
 Semana 5 | -----|
    
 Semana 6 | -----|
    
-Semana 7 | ----|
+Semana 7 | -----|
    
-Semana 8 | ----|     <H2>    
+Semana 8 | -----|     <H2>    
    _______________________________________________________________________________________________________________________________________________________________ 
 
 <h2>Integrantes<h2>
