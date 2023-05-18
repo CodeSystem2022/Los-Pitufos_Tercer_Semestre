@@ -2,7 +2,7 @@
 Repositorio 2023 Materia Laboratorio |||
 
 
-   [![pifufos2.gif](https://i.postimg.cc/D0kdghzy/pifufos2.gif)](https://postimg.cc/tZkxqLPL)
+   <a href='https://postimg.cc/Vrq8GLDk' target='_blank'><img src='https://i.postimg.cc/Vrq8GLDk/pifufos2.gif' border='0' alt='pifufos2'/></a>
 
 
 
