@@ -1,9 +1,12 @@
 # Los Pitufos de la Programacion Tercer Semestre
 Repositorio 2023 Materia Laboratorio |||
 
-<a href='https://postimg.cc/Vrq8GLDk' target='_blank'><img src='https://i.postimg.cc/Vrq8GLDk/pifufos2.gif' border='0' alt='pifufos2'/></a>
 
 
+<div>
+   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/KzV8Y1TB/pifufos2.gif' border='0' alt='pifufos2'/></a>
+
+</div>
 
 
 
