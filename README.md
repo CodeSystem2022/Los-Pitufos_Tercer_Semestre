@@ -4,7 +4,7 @@ Repositorio 2023 Materia Laboratorio |||
 
 
 <div>
-   <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MZNCKhsC/chingada-pitufi-chingada.gif' border='0' alt='chingada-pitufi-chingada'/></a>
+  img<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MZNCKhsC/chingada-pitufi-chingada.gif' border='0' alt='chingada-pitufi-chingada'/></a>
 </div>
 
 
