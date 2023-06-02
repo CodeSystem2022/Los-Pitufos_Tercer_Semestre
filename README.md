@@ -57,12 +57,13 @@ Semana 8 | -----|     <H2>
    Jorge de la Plata
    
    Ezequiel Garcia
-______________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________
+  ![CodeCodingGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/3adf4ae4-d65c-476e-8ccd-ed90141d6cc5)
+  ![PythonPoweredGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/badc3633-d08a-4421-b2de-404112519041)
   
-![MicrosoftHackathonHackathonGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/96d073bd-4e8e-4222-88c7-89b89300e2dd)
-![PythonBelovedGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/9f88c57e-1eef-4da3-b7e4-53e8d11c8318)
+![CoffeeBemGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/fea91a66-da52-4958-ae1d-a549e1f573de)
 
-                                                                                                                                                   
+                                                                                                                                
 
 
 
