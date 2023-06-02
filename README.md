@@ -58,12 +58,13 @@ Semana 8 | -----|     <H2>
    
    Ezequiel Garcia
 __________________________________________________________________________________________________________________________________________________________
-  ![CodeCodingGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/3adf4ae4-d65c-476e-8ccd-ed90141d6cc5)
+  
   ![PythonPoweredGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/badc3633-d08a-4421-b2de-404112519041)
   
 ![CoffeeBemGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/fea91a66-da52-4958-ae1d-a549e1f573de)
 
-                                                                                                                                
+ ![AlertJsJavascriptHelpGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/1f37c023-d94f-4671-bb9c-3d75f0fee4f2)
+                                                                                                                     
 
 
 
