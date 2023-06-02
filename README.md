@@ -60,7 +60,9 @@ Semana 8 | -----|     <H2>
 ______________________________________________________________________________________________________________________________________________________________________
   
 ![MicrosoftHackathonHackathonGIF](https://github.com/CodeSystem2022/Los-Pitufos_Tercer_Semestre/assets/92487756/96d073bd-4e8e-4222-88c7-89b89300e2dd)
+  
                                                                                                                                                    
+![Uploading AlertJsJavascriptHelpGIF.gif…]()
 
 
 
