@@ -28,7 +28,7 @@ Semana 3 | Jorde de la Plata  ****8 --13 |
    
 Semana 4 | Luciano Quinteros ****17--21  |
    
-Semana 5 | -----|
+Semana 5 | Ezequiel garcia G  ****|
    
 Semana 6 | -----|
    
