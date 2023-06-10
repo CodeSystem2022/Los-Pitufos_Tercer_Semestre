@@ -4,7 +4,7 @@ Repositorio 2023 Materia Laboratorio |||
 
 
 <div img>
-  img<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MZNCKhsC/chingada-pitufi-chingada.gif' border='0' alt='chingada-pitufi-chingada'/></a>
+ <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MZNCKhsC/chingada-pitufi-chingada.gif' border='0' alt='chingada-pitufi-chingada'/></a>
 </div>
 
 
@@ -34,13 +34,13 @@ Semana 6 | -----|
    
 Semana 7 | Santiago Mañas ****29--2|
    
-Semana 8 | -----|  
+Semana 8 | -----|   <H2> 
   
   <h1> Srum Junio <h1>
     
 Semana 9 | Mayra Manzaneda ***12--17 |  
   
-  <H2>    
+    
    _______________________________________________________________________________________________________________________________________________________________ 
 
 <h2>Integrantes<h2>
