@@ -34,7 +34,7 @@ Semana 6 | -----|
    
 Semana 7 | Santiago Mañas ****29--2|
    
-Semana 8 | -----|   <H2> 
+Semana 8 | -----|
   
   <h1> Srum Junio <h1>
     
