@@ -17,10 +17,7 @@ ________________________________________________________________________________
 
 
 <H1>Semana |  Scrum Master | Fecha <H1>
-
- 
- 
-   
+<h2>  
 Semana 1 |   Mayra Manzaneda  ***17--22  |
    
 Semana 2 |   Maira Gimenez  ****24--29   |
@@ -37,7 +34,7 @@ Semana 7 | Santiago Mañas ****29--2|
    
 Semana 8 | -----|
   
-  <h1>                                           Srum Junio <h1>
+  <h1> Srum Junio <h1>
     
 Semana 9 | Mayra Manzaneda ***12--17 |  
   
