@@ -29,11 +29,11 @@ Semana 4 | Luciano Quinteros ****17--21  |
    
 Semana 5 | Ezequiel garcia G  ****|
    
-Semana 6 | -----|
+Semana 6 | Ana Castello***|
    
 Semana 7 | Santiago Mañas ****29--2|
    
-Semana 8 | -----|
+Semana 8 | Luciana Baigorria****5--9|
   
   <h1> Srum Junio <h1>
     
@@ -50,7 +50,7 @@ Semana 9 | Mayra Manzaneda ***12--17 |
    
    Ana castello
    
-   Luciana Baigoria
+   Luciana Baigorria
    
    Santago Mañas
    
