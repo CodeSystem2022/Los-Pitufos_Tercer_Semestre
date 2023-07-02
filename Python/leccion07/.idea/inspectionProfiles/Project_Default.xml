@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E203" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="__import__" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="NumerosIgualesException.mensaje" />
+          <option value="servicio.catalogo_peliculas.catalogoPeliculas" />
+          <option value="hotel.habitacion" />
+          <option value="hotel.verificar_disponibilidad_habitaciones" />
+          <option value="hotel.fecha__salida" />
+          <option value="hotel.*" />
+          <option value="capa_datos_persona.Cursor_del_pool.logger_base" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
