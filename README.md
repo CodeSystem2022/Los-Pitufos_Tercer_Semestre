@@ -4,7 +4,7 @@ Repositorio 2023 Materia Laboratorio |||
 
 
 <div img>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/cCM4pQH1/pifufos2.gif' border='0' alt='pifufos2'/></a>
+[![pifufos2.gif](https://i.postimg.cc/cCM4pQH1/pifufos2.gif)](https://postimg.cc/ctCSYtwP)
 </div>
 
 
