@@ -1,0 +1,18 @@
+def exit (self, tipo_exception, detalle_exception):
+log.debug('se ejecuta el metodo exit')
+if valor_exception:
+self._conexion.rollback()
+log.debugg(f'ocurrio una excepción :{valor_exception} ')
+
+    else :
+        self._conexion.commit()
+        log.debug('commit de la transaccion')
+        self._cursor.close()
+        Conexion.liberarConexion(self._conexion)
+
+
+        if __name__ == '__main__':
+            with CursorDelPool() as cursor:
+                log.debug('Dentro del bloque')
+                cursor.execute('SELECT * FROM persona')
+                log.debug(cursor.fetchall())
