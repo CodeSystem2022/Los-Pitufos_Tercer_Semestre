@@ -1,3 +1,6 @@
+from Persona import Persona
+from conexion import Conexion
+from logger_base import log
 @classmethod
     def insertar(cls, persona):
         with Conexion.obtenerConexion():
@@ -45,8 +48,12 @@ class PersonaDAO:
             with Conexion.obtenerCursor() as cursor:
                 cursor.execute(cls._SELECCIONAR)
                 registros = cursor.fetchall()
-                personas = []
+                personas = [] #creamos lista
                 for registro in registros:
                     persona = Persona(registro[0],registro[1], registro[2], registro[3])
                     personas.append(persona)
-                return personas
+
+if __name__=='__main__':
+    persona= PersonaDAO.seleccionar()
+    for persona in personas:
+        log
